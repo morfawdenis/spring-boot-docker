@@ -24,7 +24,7 @@ spec:
         - name: MONGO_INITDB_ROOT_USERNAME
           value: springapp
         - name: MONGO_INITDB_ROOT_PASSWORD
-          value: mongodb@123      
+          value: mongodb@1234      
 ---
 # Node Port Service For SpringApp
 apiVersion: v1
